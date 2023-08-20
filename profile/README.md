@@ -1,6 +1,6 @@
 # TeslaRC FPV Organization
 
-Welcome to TeslaRC FPV, where we bring you cutting-edge technology for remote controlling FPV RC cars with unlimited range over 4G/LTE, maintaining ultra-low latency below 130ms, all while keeping it cost-effective. Explore our repositories to discover the world of high-definition video streaming and precise control for your RC car.
+Welcome to TeslaRC FPV, where we bring you easy to setup, cutting-edge technology for remote controlling FPV RC cars with unlimited range over 4G/LTE, maintaining ultra-low latency below 130ms, all while keeping it cost-effective. Explore our repositories to discover the world of high-definition video streaming and precise control for your RC car.
 
 ## Onboard Controller Repository
 
@@ -43,7 +43,7 @@ Both repositories are licensed under the **GNU GPL** license. You are free to us
 
 ## Visit Our Repositories
 
-- [Onboard Controller Repository](https://github.com/teslarc-fpv/Onboard-Controller)
-- [GroundStation Repository](https://github.com/teslarc-fpv/GroundStation)
+- [Onboard Controller Repository](https://github.com/teslarc/Onboard-Controller)
+- [GroundStation Repository](https://github.com/teslarc/GroundStation)
 
 Feel free to explore the repositories and start your journey into the world of FPV RC car remote control with unparalleled range and low latency.
