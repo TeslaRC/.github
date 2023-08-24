@@ -46,4 +46,8 @@ Both repositories are licensed under the **GNU GPL** license. You are free to us
 - [Onboard Controller Repository](https://github.com/teslarc/Onboard-Controller)
 - [GroundStation Repository](https://github.com/teslarc/GroundStation)
 
+## Contributors
+- [tesla](https://github.com/tesla15)
+- [arin](https://github.com/arin2115)
+
 Feel free to explore the repositories and start your journey into the world of FPV RC car remote control with unparalleled range and low latency.
